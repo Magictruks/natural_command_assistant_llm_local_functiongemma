@@ -1,0 +1,6 @@
+flowchart TD
+    U[Utilisateur<br/>Langage naturel] -->|Instruction| LLM[FunctionGemma<br/>270M params]
+    LLM -->|Function Call structuré| R[Command Router]
+    R --> T[Scripts de tests]
+    R --> D[Déploiement]
+    R --> G[Génération de rapports]
