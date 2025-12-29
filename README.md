@@ -5,7 +5,7 @@
 ![Python: 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)
 ![Model: FunctionGemma](https://img.shields.io/badge/Model-FunctionGemma-orange.svg)
 
-Natural Command Assistant simplifies the execution of complex scripts by converting your text instructions into secure function calls. Powered locally by FunctionGemma-270M, it guarantees total confidentiality and deterministic execution without API fees. It is the ideal interface for making your deployment and testing tools accessible to the entire team without the risk of human error.
+Natural Command Assistant simplifies the execution of complex scripts by converting your text instructions into secure function calls. Powered locally by [FunctionGemma-270M](https://huggingface.co/google/functiongemma-270m-it), it guarantees total confidentiality and deterministic execution without API fees. It is the ideal interface for making your deployment and testing tools accessible to the entire team without the risk of human error.
 
 ## 🎯 Business Problem
 
